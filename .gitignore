@@ -1,0 +1,56 @@
+# Maven Build outputs
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Portable maven folder
+/maven/
+
+# Log files
+*.log
+log/
+
+# Compiled class files
+*.class
+
+# Package Files
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse project files
+.metadata
+.classpath
+.project
+.settings/
+.springBeans
+bin/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code project files
+.vscode/
+
+# OS templates
+.DS_Store
+Thumbs.db
